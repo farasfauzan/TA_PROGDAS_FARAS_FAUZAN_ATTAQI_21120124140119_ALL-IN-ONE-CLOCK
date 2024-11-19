@@ -1,9 +1,3 @@
-/*
- * Creates a Frame using Java Swing of multiple tabs consisting of Digital Clock, Analog Clock both synchronized with the system clock, 
- * also tabs with Calendar, StopWatch and a Countdown Timer. 
- * This is the Main class file.
- * @author 04xRaynal
- */
 package clock_panel;
 
 import java.awt.Color;
