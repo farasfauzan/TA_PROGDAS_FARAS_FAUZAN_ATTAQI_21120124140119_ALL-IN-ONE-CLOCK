@@ -1,10 +1,4 @@
-/*
- * Creates a Panel using Swing Components consisting of a StopWatch synchronized with the System time.
- * Displays the timer counter, and buttons to start, pause and reset the watch.
- * Also has a button of Lap Timer for counting laps (a timed session), each lap is calculated and displayed on the panel.
- * This is not the Main class file.
- * @author 04xRaynal
- */
+
 package clock_panel;
 
 import java.awt.Font;
