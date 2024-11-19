@@ -1,9 +1,3 @@
-/*
- * Creates a Panel using Swing Components consisting of Digital Clock synchronized with the system clock.
- * Displays the Full Date, Current Time and TimeZone with Offset. 
- * This is not the Main class file.
- * @author 04xRaynal
- */
 package clock_panel;
 import java.awt.Color;
 import java.awt.Font;
